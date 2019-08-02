@@ -8,6 +8,7 @@ O dataset utilizado para a demonstração contém informações do US Census Bur
 O dataset pode ser obtido <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data">aqui.</a> <br>
 Informações sobre as colunas do dataset estão disponíveis <a href="https://www.kaggle.com/uciml/adult-census-income">aqui.</a>
 
+Para melhor visualização recomendamos ver os notebooks por meio do Google Colab. (Link dentro dos notebooks)
 Mais informações sobre os métodos podem ser encontradas nos repositórios das bibliotecas:
 <ul>
   <li><a href="https://shap.readthedocs.io/en/latest/">SHAP</a></li>
